@@ -1,2 +1,3 @@
-def testlib():
-    print('testlib2')
+def testlib(a, b):
+    return a + b
+
